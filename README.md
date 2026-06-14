@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gayatri Thakare</h1>
 <h3 align="center">Frontend Developer | MCA Student | React & Next.js Enthusiast</h3>
 
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<!-- <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"> -->
 
 - 🎓 MCA Student
 - 💻 Frontend Developer
