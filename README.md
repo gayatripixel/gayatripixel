@@ -5,10 +5,11 @@
 
 <h1 align="center">Hi 👋, I'm Gayatri Thakare</h1>
 <h3 align="center">Frontend Developer | MCA Student | React & Next.js Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;Next.js+Learner;MCA+Student;Open+to+Work" />
+</p>
 
-<!-- <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"> -->
-
-- 🎓 MCA Student
+- 🎓 MCA Student (Final Year)
 - 💻 Frontend Developer
 - 💼 Successfully Completed Internship at **SMART ACCESS**
 - 🚀 Developed **Smart Appointment Booking SaaS during Internship**
@@ -37,11 +38,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gayatripixel&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=gayatripixel&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripixel&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripixel&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -49,8 +50,8 @@
 ### 🚀 Featured Projects
 
 - 📅 Smart Appointment Booking SaaS
-- 🛒 E-Commerce Project (Coming Soon)
-- 🌐 Portfolio Website (Coming Soon)
+- 🛒 E-Commerce Project (In Progress)
+- 🌐 Portfolio Website (In Progress)
 
 ---
 
