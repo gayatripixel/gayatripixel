@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="C:\Users\Gayatri\Downloads\Red White and Black Corporate Virtual Assistant LinkedIn Article Cover Image.png" width="100%" />
-</p>
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1 align="center">Hi 👋, I'm Gayatri Thakare</h1>
 <h3 align="center">Frontend Developer | MCA Student | React & Next.js Enthusiast</h3>
