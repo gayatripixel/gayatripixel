@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gayatri Thakare</h1>
+<h3 align="center">Frontend Developer | MCA Student | React & Next.js Enthusiast</h3>
 
-<!--
-**gayatripixel/gayatripixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-Here are some ideas to get you started:
+- 🎓 MCA Student
+- 💻 Frontend Developer
+- 🌱 Currently Learning **React.js, Next.js**
+- 🚀 Built **Smart Appointment Booking SaaS**
+- 📫 Reach me at: **LinkedIn**
+- ⚡ Goal: Become a Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with Me
+
+<a href="https://www.linkedin.com/in/gayatri-thakare-32a9b4378/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gayatripixel&show_icons=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatripixel&layout=compact" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+- 📅 Smart Appointment Booking SaaS
+- 🛒 E-Commerce Project (Coming Soon)
+- 🌐 Portfolio Website (Coming Soon)
+
+---
+
+⭐ Thanks for visiting my profile!
