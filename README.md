@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/24bbc499-f77f-4dd0-a066-3e43dd08f596"  width="100%" />
 </p>
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250" />
 </p>
 <h1 align="center">Hi 👋, I'm Gayatri Thakare</h1>
