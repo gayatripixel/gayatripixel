@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/24bbc499-f77f-4dd0-a066-3e43dd08f596" width="100%" />
+  <img src="https://github.com/user-attachments/assets/24bbc499-f77f-4dd0-a066-3e43dd08f596"  width="100%" />
 </p>
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250" />
+</p>
 <h1 align="center">Hi 👋, I'm Gayatri Thakare</h1>
 <h3 align="center">Frontend Developer | MCA Student | React & Next.js Enthusiast</h3>
 <p align="center">
