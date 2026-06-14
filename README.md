@@ -7,19 +7,24 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;Next.js+Learner;MCA+Student;Open+to+Work" />
 </p>
-<p align="right">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250" />
-</p>
+<table>
+  <tr>
+    <td>
 
-- 🎓 MCA Student (Final Year)
-- 💻 Frontend Developer
-- 💼 Successfully Completed Internship at **SMART ACCESS**
-- 🚀 Developed **Smart Appointment Booking SaaS during Internship**
-- 🌱 Currently Learning **React.js, Next.js & Modern Web Development**
-- 📫 Reach me at: **LinkedIn**
-- ⚡ Goal: Become a Software Developer
+- 🎓 MCA Student (Final Year)  
+- 💻 Frontend Developer  
+- 💼 Successfully Completed Internship at **SMART ACCESS**  
+- 🚀 Developed Smart Appointment Booking SaaS during Internship  
+- 🌱 Currently Learning React.js, Next.js & Modern Web Development  
+- 📫 Reach me: LinkedIn  
+- ⚡ Goal: Become a Software Developer  
 
----
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ### 🌐 Connect with Me
 
