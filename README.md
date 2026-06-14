@@ -5,8 +5,9 @@
 
 - 🎓 MCA Student
 - 💻 Frontend Developer
-- 🌱 Currently Learning **React.js, Next.js**
-- 🚀 Built **Smart Appointment Booking SaaS**
+- 💼 Successfully Completed Internship at **SMART ACCESS**
+- 🚀 Developed **Smart Appointment Booking SaaS during Internship**
+- 🌱 Currently Learning **React.js, Next.js & Modern Web Development**
 - 📫 Reach me at: **LinkedIn**
 - ⚡ Goal: Become a Software Developer
 
@@ -45,6 +46,16 @@
 - 📅 Smart Appointment Booking SaaS
 - 🛒 E-Commerce Project (Coming Soon)
 - 🌐 Portfolio Website (Coming Soon)
+
+---
+
+### 🏆 Achievements
+
+✅ Internship Completed at SMART ACCESS
+
+✅ Developed Smart Appointment Booking SaaS
+
+✅ Building Real-World React & Next.js Projects
 
 ---
 
