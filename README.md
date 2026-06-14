@@ -1,3 +1,4 @@
+<img width="2000" height="600" alt="Red White and Black Corporate Virtual Assistant LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/24bbc499-f77f-4dd0-a066-3e43dd08f596" />
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <h1 align="center">Hi 👋, I'm Gayatri Thakare</h1>
