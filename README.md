@@ -1,13 +1,14 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/24bbc499-f77f-4dd0-a066-3e43dd08f596"  width="100%" />
 </p>
-<p align="right">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Gayatri Thakare</h1>
 <h3 align="center">Frontend Developer | MCA Student | React & Next.js Enthusiast</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Developer;Next.js+Learner;MCA+Student;Open+to+Work" />
+</p>
+<p align="right">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250" />
 </p>
 
 - 🎓 MCA Student (Final Year)
