@@ -14,7 +14,7 @@ Frontend Developer | React.js Developer | MCA Student
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Building+Modern+Web+Applications;UI+Development+Enthusiast;Open+To+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Building+Responsive+Web+Applications;UI+Development+Enthusiast;Open+To+Work" />
 </p>
 
 
@@ -22,15 +22,14 @@ Frontend Developer | React.js Developer | MCA Student
 
 # 👩‍💻 About Me
 
-
 - 🎓 MCA Student (2024 - 2026) | B.Sc Information Technology Graduate
-- 💻 Frontend Developer specializing in React.js, JavaScript and Tailwind CSS
-- 🚀 Passionate about building responsive, scalable and user-friendly web applications
+- 💻 Frontend Developer skilled in React.js, JavaScript and Tailwind CSS
+- 🚀 Passionate about creating responsive, scalable and user-friendly web applications
 - 💼 Completed Full Stack Development Internship at **SMART ACCESS**
-- 📅 Developed Smart Appointment Booking SaaS application during internship
-- ⚡ Experienced with component-based architecture, API integration and modern UI development
-- 🌱 Currently learning Next.js and advanced frontend concepts
-- 🔍 Actively looking for Frontend Developer / React Developer opportunities
+- 📅 Developed a Smart Appointment Booking SaaS application during internship
+- ⚡ Experienced in reusable components, API integration and modern UI development
+- 🌱 Currently learning Next.js and improving frontend architecture skills
+- 🔍 Looking for Frontend Developer / React Developer opportunities
 
 
 ---
@@ -61,8 +60,7 @@ Frontend Developer | React.js Developer | MCA Student
 # 💻 Tech Stack
 
 
-## Frontend Technologies
-
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
@@ -71,7 +69,6 @@ Frontend Developer | React.js Developer | MCA Student
 
 ## Tools
 
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
@@ -79,35 +76,35 @@ Frontend Developer | React.js Developer | MCA Student
 
 ## Libraries & Concepts
 
-
 - React Query
 - Zustand
 - REST API Integration
 - Responsive Web Design
 - Component-Based Architecture
 - State Management
-- Modern JavaScript (ES6+)
+- JavaScript ES6+
 - UI Development
 
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
 
 ## 📅 Smart Appointment Booking SaaS
 
 
-A full-stack appointment management platform designed for service-based businesses to manage bookings efficiently.
+A full-stack appointment management platform developed for service-based businesses to simplify appointment scheduling and management.
 
 
-### Features:
+### Key Features:
 
 ✅ User Authentication  
-✅ Appointment Booking Workflow  
+✅ Appointment Booking System  
 ✅ Service & Staff Management  
 ✅ Business Dashboard  
-✅ Responsive UI  
+✅ Responsive User Interface  
+✅ API Integration  
 
 
 ### Tech Stack:
@@ -115,12 +112,13 @@ A full-stack appointment management platform designed for service-based business
 `React.js` `Tailwind CSS` `Python` `PostgreSQL` `REST API`
 
 
-🔗 GitHub: Add Repository Link
-
-🔗 Live Demo: Add Deployment Link
+🔗 GitHub: https://github.com/gayatripixel/Appointment-Booking-SaaS
 
 
 ---
+
+
+# 🚧 Currently Building
 
 
 ## 🛒 Nexora - Modern E-Commerce Platform
@@ -129,106 +127,61 @@ A full-stack appointment management platform designed for service-based business
 A modern e-commerce frontend application focused on premium UI, smooth user experience and responsive design.
 
 
-### Features:
+### Features Being Developed:
 
-
-✅ Product Listing  
-✅ Search Functionality  
-✅ Cart Management  
-✅ Wishlist System  
-✅ Dark / Light Theme  
-✅ API Integration  
-✅ Responsive Design  
+🔹 Product Listing  
+🔹 Search Functionality  
+🔹 Cart Management  
+🔹 Wishlist System  
+🔹 Dark / Light Theme  
+🔹 API Integration  
+🔹 Responsive Layout  
 
 
 ### Tech Stack:
-
 
 `React.js` `JavaScript` `Tailwind CSS` `Zustand` `React Query`
 
 
-🔗 GitHub: Add Repository Link
 
-🔗 Live Demo: Add Deployment Link
+---
+
+# 🏆 Experience & Achievements
+
+
+🏅 Completed Full Stack Development Internship at **SMART ACCESS**
+
+
+🚀 Built a complete Smart Appointment Booking SaaS application
+
+
+💻 Developed real-world frontend projects using React.js
+
+
+📚 Continuously learning modern frontend development practices
 
 
 ---
 
-
-## 🌐 Developer Portfolio Website
-
-
-Personal portfolio website showcasing my skills, projects and frontend development journey.
+# 💡 Development Skills
 
 
-### Tech Stack:
-
-
-`React.js` `Tailwind CSS` `Responsive Design`
-
-
-🔗 Live Demo: Add Link
-
-
----
-
-# 🏆 Achievements
-
-
-🏅 Completed Full Stack Development Internship at SMART ACCESS
-
-
-🚀 Built Smart Appointment Booking SaaS application
-
-
-💻 Developed multiple React.js based real-world projects
-
-
-📚 Continuously improving frontend development skills
-
-
----
-
-# 💡 Development Approach
-
-
-✔ Writing clean and reusable components  
+✔ Building reusable React components  
 ✔ Creating responsive user interfaces  
-✔ Building scalable frontend architecture  
-✔ Integrating REST APIs efficiently  
-✔ Improving user experience through modern UI practices  
+✔ Integrating REST APIs  
+✔ Managing application state  
+✔ Writing clean and maintainable code  
+✔ Developing modern UI experiences
 
 
 ---
 
-# 📊 GitHub Stats
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-</p>
-
-
-# 🔥 GitHub Streak
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-
----
-
-# 📈 Current Focus
+# 📌 Current Learning Focus
 
 
 ```text
-✔ React.js Development
-✔ Next.js Learning
-✔ Building Production-Level UI
-✔ Improving Frontend Architecture
-✔ Creating Real-World Applications
+✔ React.js Advanced Concepts
+✔ Next.js
+✔ Frontend Architecture
+✔ UI/UX Improvements
+✔ Building Production-Level Applications
