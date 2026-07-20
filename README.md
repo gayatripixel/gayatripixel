@@ -25,7 +25,7 @@ Frontend Developer | React.js Developer | MCA Student
 - 🎓 MCA Student (2024 - 2026) | B.Sc Information Technology Graduate
 - 💻 Frontend Developer skilled in React.js, JavaScript and Tailwind CSS
 - 🚀 Passionate about creating responsive, scalable and user-friendly web applications
-- 💼 Completed Full Stack Development Internship at **SMART ACCESS**
+- 💼 Completed Frontend Developer Internship at **SMART ACCESS**
 - 📅 Developed a Smart Appointment Booking SaaS application during internship
 - ⚡ Experienced in reusable components, API integration and modern UI development
 - 🌱 Currently learning Next.js and improving frontend architecture skills
@@ -149,7 +149,7 @@ A modern e-commerce frontend application focused on premium UI, smooth user expe
 # 🏆 Experience & Achievements
 
 
-🏅 Completed Full Stack Development Internship at **SMART ACCESS**
+🏅 Completed Frontend Developer Internship at **SMART ACCESS**
 
 
 🚀 Built a complete Smart Appointment Booking SaaS application
