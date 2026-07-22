@@ -59,18 +59,22 @@ Frontend Developer | React.js Developer | MCA Student
 
 # 💻 Tech Stack
 
-
 ## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-
-## Tools
+## Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+</p>
+
+## Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
 
@@ -84,6 +88,8 @@ Frontend Developer | React.js Developer | MCA Student
 - State Management
 - JavaScript ES6+
 - UI Development
+- Git & GitHub Workflow
+- Vercel Deployment
 
 
 ---
@@ -141,6 +147,7 @@ A modern and responsive e-commerce web application built with React.js, focused 
 `Tailwind CSS`
 `Zustand`
 `React Query`
+`Vercel`
 
 🔗 GitHub
 
@@ -159,12 +166,15 @@ https://modern-ecommerce-virid.vercel.app/
 
 🏅 Completed Frontend Developer Internship at **SMART ACCESS**
 
-
 🚀 Built a complete Smart Appointment Booking SaaS application
 
+💻 Developed multiple production-style React.js applications
 
-💻 Developed real-world frontend projects using React.js
+🛒 Built Nexora - Modern E-Commerce Platform
 
+📅 Developed Smart Appointment Booking SaaS
+
+⚡ Focused on reusable components, responsive UI and API integration
 
 📚 Continuously learning modern frontend development practices
 
@@ -180,7 +190,11 @@ https://modern-ecommerce-virid.vercel.app/
 ✔ Managing application state  
 ✔ Writing clean and maintainable code  
 ✔ Developing modern UI experiences
-
+✔ React Query
+✔ Zustand State Management
+✔ Responsive UI Design
+✔ Dark / Light Theme Implementation
+✔ Performance Optimization
 
 ---
 
@@ -188,8 +202,9 @@ https://modern-ecommerce-virid.vercel.app/
 
 
 ```text
-✔ React.js Advanced Concepts
+✔ Advanced React.js
 ✔ Next.js
 ✔ Frontend Architecture
-✔ UI/UX Improvements
-✔ Building Production-Level Applications
+✔ Performance Optimization
+✔ Production Ready UI
+✔ Accessibility
