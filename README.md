@@ -172,11 +172,7 @@ Currently I'm focused on writing clean code, building reusable components and cr
 
 <p align="center">
 
-<a href="https://modern-ecommerce-virid.vercel.app/">
-
-<img src="https://github.com/user-attachments/assets/24bbc499-f77f-4dd0-a066-3e43dd08f596" width="100%"/>
-
-</a>
+<a href="https://modern-ecommerce-virid.vercel.app/"></a>
 
 </p>
 
@@ -307,7 +303,7 @@ During my internship I worked on a real-world appointment booking platform where
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Career Goals
 
 - Build more production-ready React applications
 - Learn advanced Next.js concepts
