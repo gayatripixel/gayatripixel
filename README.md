@@ -5,27 +5,25 @@ Frontend Developer • React.js Developer • MCA Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Building+Responsive+Web+Applications;Passionate+About+Modern+UI;Open+To+Work" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=gayatrithakare1216&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/gayatrithakare1216?label=Followers&style=social" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Building+Modern+Responsive+Web+Applications;Creating+Clean+UI+Experiences;Open+To+Work" />
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-I'm a passionate **Frontend Developer** focused on building modern, responsive and user-friendly web applications using the React ecosystem.
+I'm a **Frontend Developer** passionate about building modern, responsive and user-friendly web applications with the React ecosystem.
+
+I enjoy transforming ideas into clean, scalable and interactive user interfaces while continuously learning modern frontend technologies.
 
 - 🎓 MCA Student (2024 – 2026)
-- 💻 Frontend Developer specializing in **React.js, JavaScript & Tailwind CSS**
-- 💼 Completed **Frontend Developer Internship** at **SMART ACCESS**
-- 🚀 Built production-style React applications with clean and reusable architecture
-- ⚡ Experienced with REST APIs, state management and responsive UI development
-- 🌱 Currently learning **Next.js, TypeScript and Frontend Architecture**
-- 🎯 Open to **Frontend Developer / React.js Developer** opportunities
+- 💻 Frontend Developer specializing in React.js & JavaScript
+- 🎨 Passionate about responsive UI and modern web design
+- 💼 Completed Frontend Developer Internship at **SMART ACCESS**
+- 🚀 Built production-style React applications with reusable architecture
+- ⚡ Experienced in REST API integration and state management
+- 🌱 Currently learning **Next.js**, **TypeScript** and advanced frontend architecture
+- 🎯 Open to Frontend Developer / React.js Developer opportunities
 
 ---
 
@@ -33,7 +31,7 @@ I'm a passionate **Frontend Developer** focused on building modern, responsive a
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/gayatri-thakare-32a9b4378/">
+<a href="https://www.linkedin.com/in/gayatri-thakare-32a9b4378">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -65,13 +63,54 @@ I'm a passionate **Frontend Developer** focused on building modern, responsive a
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
 </p>
 
+## Libraries & Technologies
+
+- React Query
+- Zustand
+- React Router
+- REST APIs
+- Responsive Design
+- Component Based Architecture
+- Git Workflow
+- Vercel Deployment
+
 ---
 
 # 🚀 Featured Projects
 
+## 🛒 Nexora — Modern E-Commerce Platform
+
+A modern React.js based e-commerce application focused on delivering a premium shopping experience with responsive layouts, reusable components and scalable frontend architecture.
+
+### Features
+
+- Product Listing
+- Category Filtering
+- Search Functionality
+- Wishlist
+- Shopping Cart
+- Product Details Modal
+- Dark / Light Theme
+- Responsive Design
+- React Query Integration
+
+### Tech Stack
+
+`React.js` `JavaScript` `Tailwind CSS` `React Query` `Zustand` `Vercel`
+
+### Live Demo
+
+🌐 https://modern-ecommerce-virid.vercel.app/
+
+### GitHub
+
+🔗 https://github.com/GayatriThakare1216/modern-ecommerce
+
+---
+
 ## 📅 Smart Appointment Booking SaaS
 
-A complete appointment booking platform built during my internship for service-based businesses with a responsive frontend and dashboard experience.
+A full-stack appointment booking platform developed during my internship for service-based businesses with customer booking, business dashboard and responsive frontend experience.
 
 ### Features
 
@@ -84,52 +123,11 @@ A complete appointment booking platform built during my internship for service-b
 
 ### Tech Stack
 
-`React.js` `Tailwind CSS` `Python` `PostgreSQL` `REST API`
+`React.js` `Tailwind CSS` `Python` `PostgreSQL`
 
-### Links
+### GitHub
 
-🔗 GitHub  
-https://github.com/gayatrithakare1216/Appointment-Booking-SaaS
-
-🌐 Live Demo  
-YOUR_APPOINTMENT_LIVE_DEMO
-
----
-
-## 🛒 Nexora – Modern E-Commerce Platform
-
-A modern e-commerce application focused on premium UI, responsive layouts and smooth shopping experience.
-
-### Features
-
-- Product Listing
-- Category Filtering
-- Search Functionality
-- Wishlist
-- Shopping Cart
-- Product Details Modal
-- Dark / Light Mode
-- React Query Integration
-- Responsive Design
-
-### Tech Stack
-
-`React.js`
-`JavaScript`
-`Tailwind CSS`
-`Zustand`
-`React Query`
-`Vercel`
-
-### Links
-
-🔗 GitHub
-
-https://github.com/gayatrithakare1216/modern-ecommerce
-
-🌐 Live Demo
-
-https://modern-ecommerce-virid.vercel.app/
+🔗 https://github.com/GayatriThakare1216/Appointment-Booking-SaaS
 
 ---
 
@@ -141,11 +139,14 @@ https://modern-ecommerce-virid.vercel.app/
 
 **Feb 2026 – Jun 2026**
 
-- Developed responsive React.js web applications
+### Responsibilities
+
+- Developed responsive React.js applications
 - Built reusable UI components
 - Integrated REST APIs
-- Contributed to a Smart Appointment Booking SaaS platform
-- Improved UI performance and user experience
+- Improved frontend performance
+- Collaborated on Smart Appointment Booking SaaS
+- Followed modern frontend development practices
 
 ---
 
@@ -153,16 +154,18 @@ https://modern-ecommerce-virid.vercel.app/
 
 - React.js
 - JavaScript (ES6+)
-- Tailwind CSS
 - Next.js
+- Tailwind CSS
+- HTML5
+- CSS3
 - Responsive Web Design
 - React Query
 - Zustand
 - REST API Integration
 - Git & GitHub
 - Vercel Deployment
-- Performance Optimization
 - Component-Based Architecture
+- Performance Optimization
 
 ---
 
@@ -180,24 +183,30 @@ https://modern-ecommerce-virid.vercel.app/
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gayatrithakare1216&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=GayatriThakare1216&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gayatrithakare1216&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrithakare1216&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriThakare1216&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
+# 🎯 Career Objective
+
+I'm actively seeking opportunities as a **Frontend Developer / React.js Developer**, where I can contribute to building high-quality web applications, collaborate with talented teams and continue growing as a software engineer.
+
+---
+
 <h3 align="center">
-✨ Thanks for visiting my profile! Let's build something amazing together. 🚀
+
+✨ Thank you for visiting my profile.
+
+Let's build something amazing together! 🚀
+
 </h3>
