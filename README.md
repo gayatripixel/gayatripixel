@@ -5,38 +5,81 @@ Frontend Developer • React.js Developer • MCA Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Building+Modern+Responsive+Web+Applications;Creating+Clean+UI+Experiences;Open+To+Work" />
+Building Modern • Responsive • Scalable Web Applications
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+Developer;Building+Modern+UI;Responsive+Web+Applications;Always+Learning+New+Technologies;Open+To+Work" />
+</p>
+
+<p align="center">
+
+<a href="https://portfolio-e5m1.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://modern-ecommerce-virid.vercel.app/">
+<img src="https://img.shields.io/badge/Nexora-Live-success?style=for-the-badge"/>
+</a>
+
+<a href="mailto:gayatrithakare128@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gayatri-thakare-32a9b4378/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-I'm a **Frontend Developer** passionate about building modern, responsive and user-friendly web applications with the React ecosystem.
+I'm a passionate **Frontend Developer** who enjoys transforming ideas into clean, responsive and interactive web applications.
 
-I enjoy transforming ideas into clean, scalable and interactive user interfaces while continuously learning modern frontend technologies.
+I love building user-friendly interfaces using the React ecosystem while continuously learning modern frontend technologies and best practices.
 
-- 🎓 MCA Student (2024 – 2026)
-- 💻 Frontend Developer specializing in React.js & JavaScript
-- 🎨 Passionate about responsive UI and modern web design
-- 💼 Completed Frontend Developer Internship at **SMART ACCESS**
-- 🚀 Built production-style React applications with reusable architecture
-- ⚡ Experienced in REST API integration and state management
-- 🌱 Currently learning **Next.js**, **TypeScript** and advanced frontend architecture
-- 🎯 Open to Frontend Developer / React.js Developer opportunities
+Currently I'm focused on writing clean code, building reusable components and creating production-ready web applications.
+
+---
+
+## 🚀 Quick Highlights
+
+🎓 MCA Student (2024 – 2026)
+
+💻 React.js Frontend Developer
+
+🚀 Passionate about Modern UI Development
+
+📱 Responsive Website Specialist
+
+⚡ REST API Integration
+
+🎯 Open to Frontend Developer Opportunities
+
+🌱 Currently Learning Next.js & TypeScript
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/gayatri-thakare-32a9b4378">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<p align="center">
 
 <a href="mailto:gayatrithakare128@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gayatri-thakare-32a9b4378/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://portfolio-e5m1.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
+</a>
+
+<a href="https://github.com/GayatriThakare1216">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 </p>
@@ -45,89 +88,161 @@ I enjoy transforming ideas into clean, scalable and interactive user interfaces 
 
 # 💻 Tech Stack
 
-## Frontend
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+
 </p>
 
-## Backend & Database
+---
+
+## ⚙ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres"/>
+
 </p>
 
-## Tools & Deployment
+---
+
+## 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel"/>
+
 </p>
 
-## Libraries & Technologies
+---
+
+## 📚 Libraries & Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=npm"/>
+
+</p>
 
 - React Query
 - Zustand
-- React Router
 - REST APIs
+- Context API
 - Responsive Design
 - Component Based Architecture
+- Dark / Light Theme
 - Git Workflow
 - Vercel Deployment
+- Performance Optimization
+- Modern UI Development
+
+---
+
+# 💼 What I Do
+
+✅ Build Responsive Websites
+
+✅ Build Modern React Applications
+
+✅ Develop Reusable Components
+
+✅ REST API Integration
+
+✅ Responsive UI Development
+
+✅ State Management
+
+✅ Performance Optimization
+
+✅ Production Ready Frontend
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛒 Nexora — Modern E-Commerce Platform
+<table>
 
-A modern React.js based e-commerce application focused on delivering a premium shopping experience with responsive layouts, reusable components and scalable frontend architecture.
+<tr>
 
-### Features
+<td width="50%">
 
-- Product Listing
-- Category Filtering
-- Search Functionality
+<h3 align="center">🛒 Nexora - Modern E-Commerce</h3>
+
+<p align="center">
+
+<a href="https://modern-ecommerce-virid.vercel.app/">
+
+<img src="https://github.com/user-attachments/assets/24bbc499-f77f-4dd0-a066-3e43dd08f596" width="100%"/>
+
+</a>
+
+</p>
+
+### ✨ Features
+
+- Responsive Shopping UI
+- Product Search
+- Category Filter
 - Wishlist
 - Shopping Cart
-- Product Details Modal
 - Dark / Light Theme
-- Responsive Design
-- React Query Integration
+- Product Details Modal
+- React Query
+- Zustand State Management
 
-### Tech Stack
+### 🛠 Tech Stack
 
-`React.js` `JavaScript` `Tailwind CSS` `React Query` `Zustand` `Vercel`
+`React.js` `Tailwind CSS` `JavaScript`
 
-### Live Demo
+`React Query` `Zustand`
 
-🌐 https://modern-ecommerce-virid.vercel.app/
+### 🔗 Links
 
-### GitHub
+🌐 Live Demo
 
-🔗 https://github.com/GayatriThakare1216/modern-ecommerce
+https://modern-ecommerce-virid.vercel.app/
 
----
+💻 GitHub
 
-## 📅 Smart Appointment Booking SaaS
+https://github.com/GayatriThakare1216/modern-ecommerce
 
-A full-stack appointment booking platform developed during my internship for service-based businesses with customer booking, business dashboard and responsive frontend experience.
+</td>
 
-### Features
+<td width="50%">
 
-- User Authentication
+<h3 align="center">📅 Smart Appointment Booking SaaS</h3>
+
+### ✨ Features
+
 - Appointment Booking
-- Service Management
+- User Authentication
 - Business Dashboard
-- Responsive UI
+- Service Management
 - REST API Integration
+- Responsive UI
+- Clean Dashboard
 
-### Tech Stack
+### 🛠 Tech Stack
 
-`React.js` `Tailwind CSS` `Python` `PostgreSQL`
+`React.js`
 
-### GitHub
+`Tailwind CSS`
 
-🔗 https://github.com/GayatriThakare1216/Appointment-Booking-SaaS
+`Python`
+
+`PostgreSQL`
+
+### 🔗 GitHub
+
+https://github.com/GayatriThakare1216/Appointment-Booking-SaaS
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -135,37 +250,45 @@ A full-stack appointment booking platform developed during my internship for ser
 
 ## Frontend Developer Intern
 
-**SMART ACCESS**
+### SMART ACCESS
 
-**Feb 2026 – Jun 2026**
+📅 **Feb 2026 – Jun 2026**
 
-### Responsibilities
+During my internship I worked on a real-world appointment booking platform where I contributed to frontend development by creating responsive interfaces, reusable React components and integrating REST APIs.
 
-- Developed responsive React.js applications
-- Built reusable UI components
-- Integrated REST APIs
-- Improved frontend performance
-- Collaborated on Smart Appointment Booking SaaS
-- Followed modern frontend development practices
+### Key Contributions
+
+✔ Developed responsive React.js applications
+
+✔ Built reusable UI components
+
+✔ Integrated REST APIs
+
+✔ Improved user experience
+
+✔ Worked on appointment booking workflow
+
+✔ Collaborated in a real project environment
 
 ---
 
-# 💡 Core Skills
+# 🏆 Highlights
 
-- React.js
-- JavaScript (ES6+)
-- Next.js
-- Tailwind CSS
-- HTML5
-- CSS3
-- Responsive Web Design
-- React Query
-- Zustand
-- REST API Integration
-- Git & GitHub
-- Vercel Deployment
-- Component-Based Architecture
-- Performance Optimization
+🏅 Frontend Developer Internship Completed
+
+🚀 Built Multiple Production Style Projects
+
+🛒 Modern E-Commerce Platform
+
+📅 Appointment Booking SaaS
+
+⚡ Strong React Ecosystem Knowledge
+
+💡 Clean UI & Responsive Design
+
+🌐 Live Projects Deployed on Vercel
+
+📈 Continuous Learning Mindset
 
 ---
 
@@ -179,34 +302,59 @@ A full-stack appointment booking platform developed during my internship for ser
 ✔ Performance Optimization
 ✔ Production Ready UI
 ✔ Accessibility
+✔ Clean Code Principles
 ```
 
 ---
 
-# 📈 GitHub Statistics
+# 🎯 2026 Goals
+
+- Build more production-ready React applications
+- Learn advanced Next.js concepts
+- Master TypeScript
+- Contribute to open-source projects
+- Secure a Frontend Developer role
+- Improve UI/UX design skills
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=GayatriThakare1216&show_icons=true&theme=github_dark&hide_border=true"/>
+I'm always interested in collaborating on exciting projects, contributing to open source, and connecting with fellow developers.
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GayatriThakare1216&layout=compact&theme=github_dark&hide_border=true"/>
+If you're looking for a Frontend Developer, feel free to reach out!
+
+</p>
+
+<p align="center">
+
+<a href="mailto:gayatrithakare128@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gayatri-thakare-32a9b4378/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-e5m1.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-# 🎯 Career Objective
+<h2 align="center">
 
-I'm actively seeking opportunities as a **Frontend Developer / React.js Developer**, where I can contribute to building high-quality web applications, collaborate with talented teams and continue growing as a software engineer.
+✨ Thanks for visiting my profile! ✨
 
----
+</h2>
 
 <h3 align="center">
 
-✨ Thank you for visiting my profile.
-
-Let's build something amazing together! 🚀
+⭐ If you like my work, consider starring my repositories.
 
 </h3>
+
