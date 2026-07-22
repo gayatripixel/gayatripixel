@@ -9,25 +9,25 @@ Building Modern • Responsive • Scalable Web Applications
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+Developer;Building+Modern+UI;Responsive+Web+Applications;Always+Learning+New+Technologies;Open+To+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;Building+Modern+UI;Responsive+Web+Applications;Always+Learning+New+Technologies;Open+To+Work" />
 </p>
 
 <p align="center">
 
 <a href="https://portfolio-e5m1.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://modern-ecommerce-virid.vercel.app/">
-<img src="https://img.shields.io/badge/Nexora-Live-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🛒 Nexora-Live-success?style=for-the-badge"/>
 </a>
 
 <a href="mailto:gayatrithakare128@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/📧 Gmail-Contact-EA4335?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gayatri-thakare-32a9b4378/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/💼 LinkedIn-Connect-0077B5?style=for-the-badge"/>
 </a>
 
 </p>
@@ -36,29 +36,24 @@ Building Modern • Responsive • Scalable Web Applications
 
 # 👩‍💻 About Me
 
-I'm a passionate **Frontend Developer** who enjoys transforming ideas into clean, responsive and interactive web applications.
+I'm a passionate **Frontend Developer** who enjoys building modern, responsive and interactive web applications using the React ecosystem.
 
-I love building user-friendly interfaces using the React ecosystem while continuously learning modern frontend technologies and best practices.
+I focus on writing clean, maintainable code while creating reusable components and smooth user experiences.
 
-Currently I'm focused on writing clean code, building reusable components and creating production-ready web applications.
+Currently, I'm expanding my frontend expertise by learning advanced React concepts, Next.js and modern frontend architecture.
 
 ---
 
-## 🚀 Quick Highlights
+# 🚀 Quick Highlights
 
-🎓 MCA Student (2024 – 2026)
-
-💻 React.js Frontend Developer
-
-🚀 Passionate about Modern UI Development
-
-📱 Responsive Website Specialist
-
-⚡ REST API Integration
-
-🎯 Open to Frontend Developer Opportunities
-
-🌱 Currently Learning Next.js & TypeScript
+- 🎓 MCA Student (2024 – 2026)
+- 💻 Frontend Developer specializing in React.js
+- 🎨 Passionate about Modern UI Development
+- 📱 Responsive Website Specialist
+- ⚡ REST API Integration
+- 🔄 State Management (React Query & Zustand)
+- 🚀 Live Projects Deployed on Vercel
+- 🎯 Open to Frontend Developer Opportunities
 
 ---
 
@@ -91,108 +86,63 @@ Currently I'm focused on writing clean code, building reusable components and cr
 ## 🎨 Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
-
 </p>
 
----
-
-## ⚙ Backend & Database
+## ⚙️ Backend & Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres"/>
-
 </p>
 
----
-
-## 🛠 Tools
+## 🛠️ Tools & Deployment
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel"/>
-
 </p>
 
----
-
-## 📚 Libraries & Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=npm"/>
-
-</p>
+## 📚 Libraries & Concepts
 
 - React Query
 - Zustand
 - REST APIs
 - Context API
+- Component-Based Architecture
 - Responsive Design
-- Component Based Architecture
 - Dark / Light Theme
 - Git Workflow
-- Vercel Deployment
 - Performance Optimization
 - Modern UI Development
 
 ---
 
-# 💼 What I Do
-
-✅ Build Responsive Websites
-
-✅ Build Modern React Applications
-
-✅ Develop Reusable Components
-
-✅ REST API Integration
-
-✅ Responsive UI Development
-
-✅ State Management
-
-✅ Performance Optimization
-
-✅ Production Ready Frontend
-
----
-
 # 🚀 Featured Projects
 
-<table>
+## 🛒 Nexora – Modern E-Commerce Platform
 
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🛒 Nexora - Modern E-Commerce</h3>
-
-<p align="center">
-
-<a href="https://modern-ecommerce-virid.vercel.app/"></a>
-
-</p>
+A modern React-based e-commerce application focused on premium UI, responsive design and seamless shopping experience.
 
 ### ✨ Features
 
-- Responsive Shopping UI
-- Product Search
-- Category Filter
+- Product Listing
+- Category Filtering
+- Search Functionality
 - Wishlist
 - Shopping Cart
-- Dark / Light Theme
 - Product Details Modal
+- Dark / Light Theme
 - React Query
 - Zustand State Management
+- Fully Responsive UI
 
 ### 🛠 Tech Stack
 
-`React.js` `Tailwind CSS` `JavaScript`
-
-`React Query` `Zustand`
+`React.js`
+`JavaScript`
+`Tailwind CSS`
+`React Query`
+`Zustand`
+`Vercel`
 
 ### 🔗 Links
 
@@ -204,41 +154,32 @@ https://modern-ecommerce-virid.vercel.app/
 
 https://github.com/GayatriThakare1216/modern-ecommerce
 
-</td>
+---
 
-<td width="50%">
+## 📅 Smart Appointment Booking SaaS
 
-<h3 align="center">📅 Smart Appointment Booking SaaS</h3>
+A full-stack appointment booking platform developed during my internship for service-based businesses.
 
 ### ✨ Features
 
-- Appointment Booking
 - User Authentication
+- Appointment Booking
 - Business Dashboard
 - Service Management
-- REST API Integration
 - Responsive UI
-- Clean Dashboard
+- REST API Integration
 
 ### 🛠 Tech Stack
 
 `React.js`
-
 `Tailwind CSS`
-
 `Python`
-
 `PostgreSQL`
+`REST API`
 
 ### 🔗 GitHub
 
 https://github.com/GayatriThakare1216/Appointment-Booking-SaaS
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -248,43 +189,35 @@ https://github.com/GayatriThakare1216/Appointment-Booking-SaaS
 
 ### SMART ACCESS
 
-📅 **Feb 2026 – Jun 2026**
+**Feb 2026 – Jun 2026**
 
-During my internship I worked on a real-world appointment booking platform where I contributed to frontend development by creating responsive interfaces, reusable React components and integrating REST APIs.
+During my internship, I contributed to a real-world appointment booking platform by developing responsive user interfaces, reusable React components and integrating REST APIs.
 
 ### Key Contributions
 
-✔ Developed responsive React.js applications
-
-✔ Built reusable UI components
-
-✔ Integrated REST APIs
-
-✔ Improved user experience
-
-✔ Worked on appointment booking workflow
-
-✔ Collaborated in a real project environment
+- Developed responsive React.js applications
+- Built reusable UI components
+- Integrated REST APIs
+- Improved user experience
+- Worked on appointment booking workflow
+- Collaborated in a real project environment
 
 ---
 
-# 🏆 Highlights
+# 💡 Core Skills
 
-🏅 Frontend Developer Internship Completed
-
-🚀 Built Multiple Production Style Projects
-
-🛒 Modern E-Commerce Platform
-
-📅 Appointment Booking SaaS
-
-⚡ Strong React Ecosystem Knowledge
-
-💡 Clean UI & Responsive Design
-
-🌐 Live Projects Deployed on Vercel
-
-📈 Continuous Learning Mindset
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- Next.js
+- Responsive Web Design
+- React Query
+- Zustand
+- REST API Integration
+- Git & GitHub
+- Vercel Deployment
+- Performance Optimization
+- Component-Based Architecture
 
 ---
 
@@ -305,12 +238,12 @@ During my internship I worked on a real-world appointment booking platform where
 
 # 🎯 Career Goals
 
-- Build more production-ready React applications
-- Learn advanced Next.js concepts
-- Master TypeScript
-- Contribute to open-source projects
-- Secure a Frontend Developer role
-- Improve UI/UX design skills
+- Build scalable production-ready React applications
+- Master Next.js & TypeScript
+- Contribute to Open Source
+- Learn advanced frontend architecture
+- Grow as a Frontend Engineer
+- Deliver exceptional UI/UX experiences
 
 ---
 
@@ -318,9 +251,9 @@ During my internship I worked on a real-world appointment booking platform where
 
 <p align="center">
 
-I'm always interested in collaborating on exciting projects, contributing to open source, and connecting with fellow developers.
+I'm always excited to collaborate on interesting projects, contribute to open source, and connect with fellow developers.
 
-If you're looking for a Frontend Developer, feel free to reach out!
+If you're hiring or looking for a Frontend Developer, I'd love to connect!
 
 </p>
 
@@ -343,14 +276,9 @@ If you're looking for a Frontend Developer, feel free to reach out!
 ---
 
 <h2 align="center">
-
 ✨ Thanks for visiting my profile! ✨
-
 </h2>
 
-<h3 align="center">
-
-⭐ If you like my work, consider starring my repositories.
-
-</h3>
-
+<p align="center">
+If you like my projects, consider giving them a ⭐
+</p>
