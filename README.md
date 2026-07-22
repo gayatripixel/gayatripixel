@@ -116,31 +116,39 @@ A full-stack appointment management platform developed for service-based busines
 
 
 ---
-
-
-# 🚧 Currently Building
-
+---
 
 ## 🛒 Nexora - Modern E-Commerce Platform
 
+A modern and responsive e-commerce web application built with React.js, focused on delivering a premium shopping experience through clean UI, fast performance and scalable frontend architecture.
 
-A modern e-commerce frontend application focused on premium UI, smooth user experience and responsive design.
+### Features
 
+✅ Product Listing
+✅ Category Filtering
+✅ Search Functionality
+✅ Wishlist
+✅ Shopping Cart
+✅ Product Details Modal
+✅ Dark / Light Theme
+✅ Responsive Design
+✅ React Query Integration
 
-### Features Being Developed:
+### Tech Stack
 
-🔹 Product Listing  
-🔹 Search Functionality  
-🔹 Cart Management  
-🔹 Wishlist System  
-🔹 Dark / Light Theme  
-🔹 API Integration  
-🔹 Responsive Layout  
+`React.js`
+`JavaScript`
+`Tailwind CSS`
+`Zustand`
+`React Query`
 
+🔗 GitHub
 
-### Tech Stack:
+https://github.com/gayatripixel/modern-ecommerce
 
-`React.js` `JavaScript` `Tailwind CSS` `Zustand` `React Query`
+🌐 Live Demo
+
+https://modern-ecommerce-virid.vercel.app/
 
 
 
