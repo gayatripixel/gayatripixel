@@ -26,7 +26,7 @@ Building Modern • Responsive • Scalable Web Applications
 <img src="https://img.shields.io/badge/📧 Gmail-Contact-EA4335?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gayatri-thakare-32a9b4378/">
+<a href="https://www.linkedin.com/in/gayatrithakare12/">
 <img src="https://img.shields.io/badge/💼 LinkedIn-Connect-0077B5?style=for-the-badge"/>
 </a>
 
