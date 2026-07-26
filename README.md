@@ -263,7 +263,7 @@ If you're hiring or looking for a Frontend Developer, I'd love to connect!
 <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gayatri-thakare-32a9b4378/">
+<a href="https://www.linkedin.com/in/gayatrithakare12/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
