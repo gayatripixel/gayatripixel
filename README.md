@@ -9,7 +9,7 @@ Building Modern • Responsive • Scalable Web Applications
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;Building+Modern+UI;Responsive+Web+Applications;Always+Learning+New+Technologies;Open+To+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Aspiring+Frontend+Developer;React.js+Developer;Building+Modern+UI;Responsive+Web+Applications;Always+Learning+New+Technologies;Open+To+Work" />
 </p>
 
 <p align="center">
