@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gayatri Thakare</h1>
 
 <h3 align="center">
-Frontend Developer • React.js Developer • MCA Student
+Aspiring Frontend Developer • React.js Developer • MCA Student
 </h3>
 
 <p align="center">
