@@ -46,7 +46,7 @@ Currently, I'm expanding my frontend expertise by learning advanced React concep
 
 # 🚀 Quick Highlights
 
-- 🎓 MCA Student (2024 – 2026)
+- 🎓 MCA Graduate (2026)
 - 💻 Frontend Developer specializing in React.js
 - 🎨 Passionate about Modern UI Development
 - 📱 Responsive Website Specialist
@@ -201,6 +201,24 @@ During my internship, I contributed to a real-world appointment booking platform
 - Improved user experience
 - Worked on appointment booking workflow
 - Collaborated in a real project environment
+
+---
+
+## Web Developer Intern
+
+### THE PIXEL MIND
+
+**Aug 2025 – Feb 2026**
+
+Worked on real-world web development projects and contributed to building responsive digital solutions using modern frontend technologies.
+
+### Key Contributions
+
+- Developed responsive interfaces using **Next.js, React.js and Tailwind CSS**
+- Built reusable UI components
+- Worked with database management
+- Used Git and deployment workflows
+- Collaborated with the development team
 
 ---
 
